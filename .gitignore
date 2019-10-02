@@ -1,0 +1,12 @@
+*.csv
+/target/
+/data/
+/build
+/bin/
+dependency-reduced-pom.xml
+*.iml
+.idea
+.DS_Store
+.classpath
+.project
+.settings/
